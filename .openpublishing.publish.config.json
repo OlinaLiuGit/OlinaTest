@@ -6,14 +6,115 @@
     {
       "docset_name": "Test01",
       "build_source_folder": "Docs/Test01",
-      "build_output_subfolder": "Docs/Test01",
+      "build_output_subfolder": "Docs/Test-OP",
       "locale": "en-us",
+      "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
-      "build_entry_point": "op",
-      "version": 0
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Test02",
+      "build_source_folder": "Docs/Test02",
+      "build_output_subfolder": "Docs/Test-OP2",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Test03",
+      "build_source_folder": "Docs/Test03",
+      "build_output_subfolder": "Docs/Test-OP3",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "Test04",
+      "build_source_folder": "Docs/Test04",
+      "build_output_subfolder": "Docs/Test-docs",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "Test05",
+      "build_source_folder": "Docs/Test05",
+      "build_output_subfolder": "Docs/Test-docs-msdn",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.MSDN.Modern"
+    },
+    {
+      "docset_name": "Test06",
+      "build_source_folder": "Docs/Test06",
+      "build_output_subfolder": "Docs/Test-docs-VS",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.VS.Modern"
+    },
+    {
+      "docset_name": "Test07",
+      "build_source_folder": "Docs/Test07",
+      "build_output_subfolder": "Docs/Test-docs-TN",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.TechNet.Modern"
+    },
+    {
+      "docset_name": "Test08",
+      "build_source_folder": "Docs/Test08",
+      "build_output_subfolder": "Docs/Test-docs-OPS",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.OPS"
+    },
+    {
+      "docset_name": "Test09",
+      "build_source_folder": "Docs/Test09",
+      "build_output_subfolder": "Docs/Test-docs1",
+      "locale": "en-us",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs"
     }
   ],
   "notification_subscribers": [
