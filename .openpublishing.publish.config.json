@@ -16,18 +16,6 @@
       "version": 0
     },
     {
-      "docset_name": "Test02",
-      "build_source_folder": "Docs/Test02",
-      "build_output_subfolder": "Docs/Test02",
-      "locale": "en-us",
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "op",
-      "version": 0
-    },
-    {
       "docset_name": "Test04",
       "build_source_folder": "Docs/Test04",
       "build_output_subfolder": "Docs/Test04",
