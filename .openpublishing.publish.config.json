@@ -1,24 +1,75 @@
 {
-  "build_entry_point": "op",
+  "build_entry_point": "docs",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "Test01",
-      "build_source_folder": "Docs/Test01",
-      "build_output_subfolder": "Docs/Test01",
+      "docset_name": "Docs",
+      "build_source_folder": "Docs/Docs",
+      "build_output_subfolder": "Docs/Docs",
       "locale": "en-us",
       "monikers": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content"
       },
-      "build_entry_point": "op",
-      "version": 0
-    }
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
+      "docset_name": "Docs_Default",
+      "build_source_folder": "Docs/Docs_Default",
+      "build_output_subfolder": "Docs/Docs_Default",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs"      
+    },
+    {
+      "docset_name": "MSDNTest",
+      "build_source_folder": "Docs/MSDNTest",
+      "build_output_subfolder": "Docs/MSDNTest",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.MSDN.Modern"
+    },
+    {
+      "docset_name": "VS-VS",
+      "build_source_folder": "Docs/VS-VS",
+      "build_output_subfolder": "Docs/VS-VS",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.VS.Modern"
+    },
+    {
+      "docset_name": "TN-SC",
+      "build_source_folder": "Docs/TN-SC",
+      "build_output_subfolder": "Docs/TN-SC",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.TechNet.Modern"
+    }    
   ],
   "notification_subscribers": [
-    "v-rukang@microsoft.com"
+    "v-olliu@microsoft.com"
   ],
   "branches_to_filter": [
     "master"
