@@ -4,9 +4,9 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "Docs",
-      "build_source_folder": "Docs/Docs",
-      "build_output_subfolder": "Docs/Docs",
+      "docset_name": "Docs_Tamplate",
+      "build_source_folder": "Docs_Tamplate",
+      "build_output_subfolder": "Docs_Tamplate",
       "locale": "en-us",
       "monikers": [],
       "open_to_public_contributors": true,
@@ -42,9 +42,9 @@
       "template_folder": "_themes.MSDN.Modern"
     },
     {
-      "docset_name": "VS-VS",
-      "build_source_folder": "Docs/VS-VS",
-      "build_output_subfolder": "Docs/VS-VS",
+      "docset_name": "VS_VS",
+      "build_source_folder": "Docs/VS_VS",
+      "build_output_subfolder": "Docs/VS_VS",
       "locale": "en-us",
       "monikers": [],
       "open_to_public_contributors": true,
@@ -55,9 +55,9 @@
       "template_folder": "_themes.VS.Modern"
     },
     {
-      "docset_name": "TN-SC",
-      "build_source_folder": "Docs/TN-SC",
-      "build_output_subfolder": "Docs/TN-SC",
+      "docset_name": "TN_SC",
+      "build_source_folder": "Docs/TN_SC",
+      "build_output_subfolder": "Docs/TN_SC",
       "locale": "en-us",
       "monikers": [],
       "open_to_public_contributors": true,
