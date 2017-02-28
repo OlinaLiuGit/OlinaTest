@@ -40,19 +40,6 @@
       "build_entry_point": "docs",
       "template_folder": "_themes.MSDN.Modern",
       "version": 0
-    },
-    {
-      "docset_name": "Test06",
-      "build_source_folder": "Docs/Test06",
-      "build_output_subfolder": "Docs/Test06",
-      "locale": "en-us",
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.VS.Modern",
-      "version": 0
     }
   ],
   "notification_subscribers": [
