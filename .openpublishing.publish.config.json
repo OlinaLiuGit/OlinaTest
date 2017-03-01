@@ -33,21 +33,6 @@
       "version": 0
     },
     {
-      "docset_name": "MSDNTest",
-      "build_source_folder": "MSDNTest",
-      "build_output_subfolder": "Docs/MSDNTest",
-      "locale": "en-us",
-      "monikers": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "op",
-      "version": 0
-    },
-    {
       "docset_name": "VS_VS",
       "build_source_folder": "VS_VS",
       "build_output_subfolder": "Docs/VS_VS",
