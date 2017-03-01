@@ -5,7 +5,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "Docs_Default",
-      "build_source_folder": "Docs_Default",
+      "build_source_folder": "Docs/Docs_Default",
       "build_output_subfolder": "Docs/Test01",
       "locale": "en-us",
       "monikers": [],
@@ -19,7 +19,7 @@
     },
     {
       "docset_name": "Docs_Template",
-      "build_source_folder": "Docs_Template",
+      "build_source_folder": "Docs/Docs_Template",
       "build_output_subfolder": "Docs/Docs_Template",
       "locale": "en-us",
       "monikers": [],
@@ -33,9 +33,9 @@
       "version": 0
     },
     {
-      "docset_name": "VS_VS",
-      "build_source_folder": "VS_VS",
-      "build_output_subfolder": "Docs/VS_VS",
+      "docset_name": "TN_SC",
+      "build_source_folder": "Docs/Docs_Template",
+      "build_output_subfolder": "Docs/TN_SC",
       "locale": "en-us",
       "monikers": [],
       "open_to_public_contributors": true,
@@ -48,9 +48,9 @@
       "version": 0
     },
     {
-      "docset_name": "TN_SC",
-      "build_source_folder": "TN_SC",
-      "build_output_subfolder": "Docs/TN_SC",
+      "docset_name": "VS_VS",
+      "build_source_folder": "Docs/Docs_Template",
+      "build_output_subfolder": "Docs/VS_VS",
       "locale": "en-us",
       "monikers": [],
       "open_to_public_contributors": true,
