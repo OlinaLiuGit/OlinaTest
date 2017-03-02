@@ -1,1 +1,0 @@
-# Welcome to TN_SC!
