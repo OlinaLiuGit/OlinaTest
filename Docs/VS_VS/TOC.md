@@ -1,6 +1,5 @@
 #[Test]()
-##[TestFiles]()
-###[Get Start](Index.md)
+##[Get Start](Index.md)
 ###[TestAlert](TestAlert.md)
 ###[TestCodeSnippet](TestCodeSnippet.md)
 ###[TestImage](TestImage.md)

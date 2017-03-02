@@ -1,4 +1,4 @@
-﻿﻿---
+---
 layout: HubPage
 ---
 # Microsoft Enterprise Mobility Documentation
@@ -23,7 +23,7 @@ layout: HubPage
         <h2 class="section-heading"><span class="icon icon-lightbulb-checked"></span> Featured Content</h2>
         <div class="features row">
         <ul class="column-half">
-            <li><a href="/Docs_Default/TestImage">Test Image</a></li>
+            <li><a href=".">Test Image</a></li>
             <li><a href="/intune/understand-explore/introduction-to-microsoft-intune">What is Microsoft Intune?</a></li>
             <li><a href="/advanced-threat-analytics/understand-explore/what-is-ata">What is Advanced Threat Analytics?</a></li>
         </ul>
@@ -55,22 +55,22 @@ layout: HubPage
             <section class="journey-step-elements content">
                 <ul class="row">
                 <li class="column column-third">
-                    <a href=".">
-                    <h3>Test Image</h3>
+                    <a href="/Docs_Default/">
+                    <h3>Docs Default</h3>
                     <p>Synchronize on-premises directories and enable single sign-on.</p>
                     <h4>...</h4>
                     </a>
                 </li>
                 <li class="column column-third">
-                    <a href="/multi-factor-authentication/">
-                    <h3>Azure Multi-factor Authentication</h3>
+                    <a href="/Docs_Template/">
+                    <h3>Docs Template</h3>
                     <p>Safeguard access to your data and apps with an extra level of authentication.</p>
                     <h4>...</h4>
                     </a>
                 </li>
                 <li class="column column-third">
-                    <a href="/microsoft-identity-manager/">
-                    <h3>Microsoft Identity Manager</h3>
+                    <a href="/TN_SC/">
+                    <h3>Technet Windows Service</h3>
                     <p>Configure identity and access management that is secure, flexible, and cloud ready.</p>
                     <h4>...</h4>
                     </a>
@@ -96,8 +96,8 @@ layout: HubPage
             <section class="journey-step-elements content">
                 <ul class="row">
                 <li class="column column-third">
-                    <a href="/intune/">
-                    <h3>Intune</h3>
+                    <a href="/VS_VS/">
+                    <h3>Visual Studio</h3>
                     <p>Manage &amp; protect corporate apps &amp; data on devices using Intune's MDM &amp; MAM capabilities.</p>
                     <h4>...</h4>
                     </a>

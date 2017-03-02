@@ -23,7 +23,7 @@ layout: HubPage
         <h2 class="section-heading"><span class="icon icon-lightbulb-checked"></span> Featured Content</h2>
         <div class="features row">
         <ul class="column-half">
-            <li><a href="/TestImage/">Test Image</a></li>
+            <li><a href=".">Test Image</a></li>
             <li><a href="/intune/understand-explore/introduction-to-microsoft-intune">What is Microsoft Intune?</a></li>
             <li><a href="/advanced-threat-analytics/understand-explore/what-is-ata">What is Advanced Threat Analytics?</a></li>
         </ul>
@@ -55,7 +55,7 @@ layout: HubPage
             <section class="journey-step-elements content">
                 <ul class="row">
                 <li class="column column-third">
-                    <a href="/TestImage/">
+                    <a href=".">
                     <h3>Test Image</h3>
                     <p>Synchronize on-premises directories and enable single sign-on.</p>
                     <h4>...</h4>
