@@ -27,7 +27,7 @@
     ],
     "globalMetadata": {
         "ROBOTS": "NOINDEX, NOFOLLOW",
-        "breadcrumb_path": "/OlinaTest/Docs/breadcrumb.json",
+        "breadcrumb_path": "/Docs/toc.yml",
         "_mockServerUrl": "https://apiexproxy.azurewebsites.net/svc",
         "_mockServerAuthorization": "Bearer {token:https://graph.windows.net/}"
     },
@@ -40,6 +40,6 @@
     "externalReference": [
     ],
     "template": "op.html",
-    "dest": "OlinaTest/Docs"
+    "dest": "Docs"
   }
 }

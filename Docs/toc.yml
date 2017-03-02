@@ -1,0 +1,18 @@
+
+- name: Docs Homepage
+  tocHref: /Docs/
+  topicHref: /Docs/index
+  items:
+  - name: Docs default
+    tocHref: /Docs/Docs_Default/
+    topicHref: /Docs/Docs_Default/index
+  - name: Docs Template
+    tocHref: /Docs/Docs_Template/
+    topicHref: /Docs/Docs_Template/index    
+  - name: Technet Windows Service 
+    tocHref: /Docs/TN_SC/
+    topicHref: /Docs/TN_SC/index
+  - name: Visual studio 
+    tocHref: /Docs/VS_VS/
+    topicHref: /Docs/VS_VS/index
+    
