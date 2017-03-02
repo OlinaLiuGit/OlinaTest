@@ -34,7 +34,7 @@
     },
     {
       "docset_name": "TN_SC",
-      "build_source_folder": "Docs/Docs_Template",
+      "build_source_folder": "Docs/TN_SC",
       "build_output_subfolder": "Docs/TN_SC",
       "locale": "en-us",
       "monikers": [],
@@ -49,7 +49,7 @@
     },
     {
       "docset_name": "VS_VS",
-      "build_source_folder": "Docs/Docs_Template",
+      "build_source_folder": "Docs/VS_VS",
       "build_output_subfolder": "Docs/VS_VS",
       "locale": "en-us",
       "monikers": [],
