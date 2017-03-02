@@ -64,10 +64,10 @@
     }
   ],
   "notification_subscribers": [
-    "v-rukang@microsoft.com"
+    "v-olliu@microsoft.com"
   ],
   "branches_to_filter": [
-    "Ruixiang_dev"
+    "live"
   ],
   "git_repository_url_open_to_public_contributors": "",
   "skip_source_output_uploading": false,

@@ -1,36 +1,24 @@
 {
   "build": {
-    "content": [
-      {
-        "files": [
-          "**/*.md"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE"
-        ]
-      }
-    ],
+    "content":
+      [
+        {
+          "files": ["**/**.md"],
+          "exclude": ["**/obj/**"]
+        }
+      ],
     "resource": [
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "**/includes/**"
-        ]
-      }
+        {
+          "files": ["**/images/**"],
+          "exclude": ["**/obj/**"]
+        }
     ],
-    "overwrite": [],
-    "externalReference": [],
-    "globalMetadata": {},
-    "fileMetadata": {},
-    "template": [],
-    "dest": "Docs/Test01"
+    "globalMetadata": {
+        "ROBOTS": "INDEX, FOLLOW"
+    },
+    "externalReference": [
+    ],
+    "template": "op.html",
+    "dest": "Docs/Docs_Default"
   }
 }
