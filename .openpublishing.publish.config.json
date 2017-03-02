@@ -1,21 +1,8 @@
 {
-  "build_entry_point": "docs",
+  "build_entry_point": "op",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
-    {
-      "docset_name": "Docs_Index",
-      "build_source_folder": "Docs",
-      "build_output_subfolder": "DocsIndex",
-      "locale": "en-us",
-      "monikers": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
     {
       "docset_name": "Docs_Default",
       "build_source_folder": "Docs/Docs_Default",
@@ -27,12 +14,13 @@
         "Conceptual": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes"
+      "template_folder": "_themes",
+      "version": 0
     },
     {
       "docset_name": "Docs_Template",
       "build_source_folder": "Docs/Docs_Template",
-      "build_output_subfolder": "Docs/Docs_MSDN",
+      "build_output_subfolder": "Docs/Docs_Template",
       "locale": "en-us",
       "monikers": [],
       "open_to_public_contributors": true,
@@ -41,7 +29,8 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "op",
+      "version": 0
     },
     {
       "docset_name": "TN_SC",
@@ -55,7 +44,8 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "op",
+      "version": 0
     },
     {
       "docset_name": "VS_VS",
@@ -69,7 +59,24 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "op",
+      "version": 0
+    },
+    {
+      "docset_name": "Docs",
+      "build_source_folder": "OlinaTest/Docs",
+      "build_output_subfolder": "OlinaTest/Docs",
+      "locale": "en-us",
+      "monikers": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
     }
   ],
   "notification_subscribers": [
