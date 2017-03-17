@@ -1,29 +1,24 @@
 [{
-		"toc_title" : "Documentation",
+		"toc_title" : "Docs_Default",
 		"href" : "/",
 		"level" : 1,
 		"children" : [{
-				"href" : "/Docs/Docs_Default/",
-				"homepage" : "/Docs/Docs_Default/index",
-				"toc_title" : "Index",
-				"level" : 2,
-                "children" : [{
-                            "href" : "/Docs/Docs_Default/Alert/",
-                            "homepage" : "/Docs/Docs_Default/Alert/index",
+                            "href" : "/Alert/",
+                            "homepage" : "/Alert/index",
                             "toc_title" : "Get start",
-                            "level" : 3			
+                            "level" : 2			
                         },
                         {
-                            "href" : "/Docs/Docs_Default/Link/",
-                            "homepage" : "/Docs/Docs_Default/Link/index",
+                            "href" : "/Link/",
+                            "homepage" : "/Link/index",
                             "toc_title" : "Get start",
-                            "level" : 3	
+                            "level" : 2	
                         },
                         {
-                            "href" : "/Docs/Docs_Default/Table/",
-                            "homepage" : "/Docs/Docs_Default/Table/index",
+                            "href" : "/Table/",
+                            "homepage" : "/Table/index",
                             "toc_title" : "Get start",
-                            "level" : 3	
+                            "level" : 2	
                         }
                         ]
                     }
